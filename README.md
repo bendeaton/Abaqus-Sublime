@@ -7,7 +7,7 @@ Syntax highlighting for Abaqus
 3. Unzip the file you downloaded into that directory
 4. Rename the folder to 'Abaqus'
 
-## Oustanding Issues ##
+## Outstanding Issues ##
 1. Element types
 2. Loading types
 3. Output types
